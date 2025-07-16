@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "JavaScript",
+    "descripcion": "Lenguaje de programación interpretado, basado en prototipos, utilizado principalmente en desarrollo web.",
+    "logo": "/logos/javascript.png"
+  },
+  {
+    "nombre": "Python",
+    "descripcion": "Lenguaje de programación interpretado, fácil de leer y escribir, muy utilizado en ciencia de datos e inteligencia artificial.",
+    "logo": "/logos/python.png"
+  },
+  {
+    "nombre": "Java",
+    "descripcion": "Lenguaje de propósito general, orientado a objetos, utilizado en sistemas empresariales y Android.",
+    "logo": "/logos/java.png"
+  }
+]
